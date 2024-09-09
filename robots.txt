@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://zozeqabtribun.netlify.app/sitemap.xml
